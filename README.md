@@ -39,3 +39,36 @@ View Recipes By Meal-Type:
 Or, View All Recipes
 
 [testing](https://github.com/wyattshanahan/Recipebox/blob/main/countries/Canada.md)
+
+proposed structure:
+
+upper level:
+- meal-category
+- difficulty
+- country
+- prep-time
+
+lower level:
+- m-c
+  
+  -breakfast
+	-lunch
+	-dinner
+	-dessert
+	-side
+	-snack
+	-drink
+  
+- difficulty
+	very easy
+	easy
+	medium
+	hard
+	very hard
+- country
+	country.md, stored in ../countries
+- prep-time
+	less than 30 min?
+	30-60 min
+	61m-2 h
+	>2h
