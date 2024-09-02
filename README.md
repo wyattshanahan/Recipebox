@@ -1,7 +1,7 @@
 # Recipebox
 ### A categorised list of recipes to try and enjoy
 
-One can view recipes by Category, Country of Origin, Prep-time, Meal type, or simply view a list of all recipes
+One can view recipes by Category, Country of Origin, Prep-time, Difficulty, or simply view a list of all recipes
 
 Structure:
 
@@ -11,3 +11,18 @@ Structure:
 - Attribution for each recipe should be given as a subtitle of the title at the box
 - DO I want to add date stamps?
 - 
+
+
+View Recipes By:
+- Country of Origin
+- Prep-Time
+- Difficulty
+
+View Recipes By Meal-Type:
+- Breakfast
+- Lunch
+- Dinner
+- Dessert
+- Snack
+
+Or, View All Recipes
