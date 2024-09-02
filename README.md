@@ -27,4 +27,4 @@ View Recipes By Meal-Type:
 
 Or, View All Recipes
 
-[testing](https://github.com/wyattshanahan/Recipebox/blob/main/Countries/Canada.md)
+[testing](https://github.com/wyattshanahan/Recipebox/blob/main/countries/Canada.md)
