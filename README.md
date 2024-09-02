@@ -10,7 +10,7 @@ Structure:
 - Each recipe should use a reasonably standardised template, To be developed
 - Attribution for each recipe should be given as a subtitle of the title at the box
 - DO I want to add date stamps?
-- 
+- Will need subdirectories to hold sublists such as canada.md or easy.md
 
 
 View Recipes By:
