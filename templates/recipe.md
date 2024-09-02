@@ -16,6 +16,11 @@
 
 Category: BLDDsSDr, Country: Country, Prep-time: Time, Difficulty: VE,E,M,H,VH
 
+### Equipment
+
+- Detail any equipment or non-food items required
+- including pots, ovens, foil, etc
+
 ### Ingredients
 
 - Ingredients should be listed using bullets
@@ -23,5 +28,6 @@ Category: BLDDsSDr, Country: Country, Prep-time: Time, Difficulty: VE,E,M,H,VH
 
 ### Directions
 
-- Directions should be given with a reasonable amount of detail
-- For different cooking techniques, including a hyperlink explanation is preferred
+1. Directions should be given with a reasonable amount of detail
+2. For different cooking techniques, including a hyperlink explanation is preferred
+3. use numbered bullets for giving directions
